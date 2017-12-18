@@ -34,5 +34,5 @@ odczytywanie wszystkich n elementow listy
 Metody przyjmują parametr typu List<Integet>
 *porownac czas wykonania powyzszych metod dla LinkedList i arrayList.
 ## Napisać operacje wykorzystującą różne implementacje Set i sprawdzić różnice w operacjach dodawania do zbioru
-
+*Napisz program w którym do zbioru zostanie dodane lilka wyrazów, a następnie wyświetlone zostanie 
 ## Do których kolekcji można wstawiać wartości null?
